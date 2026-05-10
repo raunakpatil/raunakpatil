@@ -55,7 +55,7 @@ AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I
 
 ---
 
-## 🏅 Certifications
+## 🏅 Professional Certifications
 
 | Certification | Issuer |
 |--------------|--------|
