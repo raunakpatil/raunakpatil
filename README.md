@@ -88,19 +88,7 @@ India-based AI Engineer with an MSc in Data Science & AI from the University of 
 **BE Electronics & Telecommunication** · G.H. Raisoni Academy of Engineering & Technology · *2021*
 > Modules: Digital Signal Processing · Embedded Systems & Edge AI · Control Systems
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunakpatil&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakpatil&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=raunakpatil&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
 
 ---
 
