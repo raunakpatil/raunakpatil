@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./banner.png" width="100%" alt="Raunak Patil" />
 </div>
+
 <div align="center">
 
 # Raunak Patil
