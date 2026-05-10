@@ -1,16 +1,115 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**raunakpatil/raunakpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Raunak Patil
 
-Here are some ideas to get you started:
+**AI Engineer · Generative AI · LLMs · RAG Pipelines · RLHF**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*India · Open to roles · 2026*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunakpatil/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakpatil15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raunakpatil)
+
+</div>
+
+---
+
+## About
+
+India-based AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I specialise in building and evaluating production-grade Generative AI systems — RAG pipelines, LLM alignment, and RLHF-based quality frameworks. I've shipped systems that measurably move the needle on accuracy, consistency, and reliability.
+
+```
+3+ Years in AI/ML              |  18%  Dataset accuracy improvement (RAG auditing)
+14+ Multilingual LLM projects  |  27%  Output consistency boost via QA frameworks
+100% Guideline compliance      |  36%  Product engagement lift from data insights
+```
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Link |
+|--------|-------|------|
+| **MARL for Connected Autonomous Vehicles** · Multi-agent RL system for CAV coordination with reward shaping & convergence stability | `MARL` `Python` `RL` `Simulation` | MSc Dissertation |
+
+> 🔨 More projects coming soon — stay tuned.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+`Python (Advanced)` `SQL` `R`
+
+**ML / Deep Learning**
+`PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face` `LangChain` `LlamaIndex` `RLHF`
+
+**Generative AI**
+`OpenAI API` `Azure AI` `RAG Pipelines` `Prompt Engineering` `LLM Evaluation` `AI Agents` `Vector Databases`
+
+**Data & Tools**
+`Power BI` `MLflow` `Git` `Jira` `Agile`
+
+**Spoken Languages**
+`English` `Hindi` `Marathi`
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer |
+|--------------|--------|
+| Artificial Intelligence Professional | DIAT, DRDO, Pune |
+| Programming in Python | NIELIT, Haridwar |
+
+---
+
+## 💼 Experience
+
+**Data Strategy & Quality Analyst** *(London, UK · Apr 2024 – Mar 2026)*
+- Audited RAG-based NLP and Generative AI systems, reducing hallucinations and improving dataset accuracy by **18%**
+- Served as Data Controller across **14+ multilingual LLM training projects**, ensuring 100% compliance with safety & alignment guidelines
+- Built Power BI QA tracking frameworks → **27% consistency improvement** across Agile sprints
+- Led a team of 4 reviewers evaluating prompt-response pairs and RLHF datasets at scale
+
+**Junior Data Scientist** *(Bengaluru, India · Feb 2021 – Jan 2022)*
+- Deployed Python ML models for predictive maintenance → **15% reduction in downtime**
+- Built customer segmentation models (K-Means, DBSCAN) → **27% increase in conversion rates**
+- Analysed user behaviour datasets → **36% lift in product engagement**
+
+---
+
+## 🎓 Education
+
+**MSc Data Science & Artificial Intelligence** · University of Liverpool, UK · *2023*
+> Modules: Machine Learning · Data Mining & Visualization · Applied AI · Bio-inspired Optimization
+
+**BE Electronics & Telecommunication** · G.H. Raisoni Academy of Engineering & Technology · *2021*
+> Modules: Digital Signal Processing · Embedded Systems & Edge AI · Control Systems
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunakpatil&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakpatil&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=raunakpatil&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunakpatil/)
+[![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakpatil15@gmail.com)
+
+*"The best AI system is one that knows what it doesn't know."*
+
+</div>
