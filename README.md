@@ -1,12 +1,8 @@
 <img width="1983" height="690" alt="banner" src="https://github.com/user-attachments/assets/0c629c15-84b1-44a8-81e4-397a6d8ca7e3" />
-
-
 <div align="center">
 
 # Raunak Patil
-
 **AI Engineer · Generative AI · LLMs · RAG Pipelines · RLHF**
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunakpatil/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakpatil15@gmail.com)
@@ -33,6 +29,7 @@ AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I
 | Project | Stack | Link |
 |--------|-------|------|
 | **YouTube Agentic AI Studio** · 100% free AI pipeline that researches, scripts, narrates, animates, and auto-uploads faceless YouTube videos — one command, zero cost per video | `Python` `Gemini` `Edge TTS` `Pexels API` `LangChain` `YouTube API` | [→ Repo](https://github.com/raunakpatil/youtube-agentic-ai-studio) |
+| **TriviaFlux** · AI-powered trivia app with Genkit-generated questions, real-time leaderboards, and a full Android APK release | `Next.js 15` `TypeScript` `Firebase` `Google Genkit` `Tailwind CSS` | [→ Repo](https://github.com/raunakpatil/triviaflux) · [⬇ APK](https://github.com/raunakpatil/triviaflux/releases/latest/download/TriviaFlux.apk) |
 
 ---
 
@@ -86,8 +83,6 @@ AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I
 
 **BE Electronics & Telecommunication** · G.H. Raisoni Academy of Engineering & Technology · *2021*
 > Modules: Digital Signal Processing · Embedded Systems & Edge AI · Control Systems
-
-
 
 ---
 
