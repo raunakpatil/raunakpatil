@@ -12,8 +12,8 @@
 ---
  
 </div>
-## About
 
+## About
 AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I specialise in building and evaluating production-grade Generative AI systems — RAG pipelines, LLM alignment, and RLHF-based quality frameworks. I've shipped systems that measurably move the needle on accuracy, consistency, and reliability.
 
 ```
