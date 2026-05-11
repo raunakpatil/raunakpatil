@@ -1,4 +1,9 @@
-<img width="1983" height="690" alt="banner" src="https://github.com/user-attachments/assets/0c629c15-84b1-44a8-81e4-397a6d8ca7e3" />
+
+
+
+
+
+
 <div align="center">
 
 # Raunak Patil
