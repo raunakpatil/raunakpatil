@@ -1,3 +1,4 @@
+<div align="center">
 <img width="800" height="278" alt="banner" src="https://github.com/user-attachments/assets/89a097cd-6a00-4dcd-9802-88494fdc0717" />
 ---
  
@@ -7,9 +8,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunakpatil/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakpatil15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raunakpatil)
-
+ 
 ---
-
+ 
+</div>
 ## About
 
 AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I specialise in building and evaluating production-grade Generative AI systems — RAG pipelines, LLM alignment, and RLHF-based quality frameworks. I've shipped systems that measurably move the needle on accuracy, consistency, and reliability.
