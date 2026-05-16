@@ -5,6 +5,7 @@
 ## Raunak Patil
 **AI Engineer · Generative AI · LLMs · RAG Pipelines · RLHF**
  
+[![Portfolio](https://img.shields.io/badge/Portfolio-7f77dd?style=for-the-badge&logo=globe&logoColor=white)](https://raunakpatil.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunakpatil/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakpatil15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raunakpatil)
