@@ -33,6 +33,7 @@ AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I
 | **YouTube Agentic AI Studio** · 100% free AI pipeline that researches, scripts, narrates, animates, and auto-uploads faceless YouTube videos — one command, zero cost per video | `Python` `Gemini` `Edge TTS` `Pexels API` `LangChain` `YouTube API` | [→ Repo](https://github.com/raunakpatil/youtube-agentic-ai-studio) |
 | **TriviaFlux** · AI-powered Trivia Game with Genkit-generated questions, real-time leaderboards, and a full Android APK release | `Next.js 15` `TypeScript` `Firebase` `Google Genkit` `Tailwind CSS` | [→ Repo](https://github.com/raunakpatil/triviaflux) · [⬇ APK](https://github.com/raunakpatil/triviaflux/releases/latest/download/TriviaFlux.apk) |
 | **Titanic Survival Predictor** · Interactive ML explainability dashboard — XGBoost + SHAP + Streamlit with survival prediction, passenger search, fairness audit, and model insights | `Python` `XGBoost` `SHAP` `Streamlit` `Plotly` | [→ Repo](https://github.com/raunakpatil/titanic-survival-predictor) · [🚀 Live](https://titanic-survival-predictor-untighkxeujjcqbj7h79kn.streamlit.app/) |
+| **Interdimensional Cable** · Immersive, nostalgic analog TV simulator for exploring curated YouTube rabbit holes with a dynamic CSS CRT aesthetic and 60fps canvas static engine | `Vanilla JS` `CSS3` `HTML5 Canvas` `Web Audio API` `YouTube API` | [→ Repo](https://github.com/raunakpatil/InterdimentionalCable) · [🚀 Live](https://raunakpatil.github.io/InterdimentionalCable/) |
 ---
 
 ## 🛠️ Tech Stack
