@@ -31,27 +31,6 @@ AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I
 
 ---
 
-## 🤖 Meet Ronie — my 3D AI agent
-
-<div align="center">
-
-<a href="https://raunakpatil.com/ronie"><img src="https://raw.githubusercontent.com/raunakpatil/ronie-3d-ai-website-agent/main/docs/assets/ronie-wake.gif" alt="Ronie waking up, leaping into place and waving hello" width="720"></a>
-
-</div>
-
-**Ronie** lives on [my website](https://raunakpatil.com/ronie) and talks to visitors: he answers questions grounded
-only in real facts, speaks in a neural voice that runs on the visitor's own GPU, reacts with 23 facial expressions and
-23 animations I authored in Blender with Python, shows projects, and plays a mind-reading game — for **$0 a month**.
-He works with any 3D character and any website, and the code is open as a template.
-
-`three.js` `WebGPU` `Kokoro TTS` `Cloudflare Workers` `Gemini` `Blender + Python` `Service Workers` `IndexedDB`
-
-[![Talk to Ronie](https://img.shields.io/badge/Talk_to_Ronie-live-ff7a1a?style=flat-square)](https://raunakpatil.com/ronie)
-[![Case study](https://img.shields.io/badge/Case_study_%26_template-repo-181717?style=flat-square&logo=github)](https://github.com/raunakpatil/ronie-3d-ai-website-agent)
-[![Showcase](https://img.shields.io/badge/Showcase-page-c6f432?style=flat-square&labelColor=111111)](https://raunakpatil.github.io/ronie-3d-ai-website-agent/)
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Stack | Link |
