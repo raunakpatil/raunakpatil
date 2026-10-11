@@ -12,6 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunakpatil/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakpatil15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raunakpatil)
+[![Talk to Ronie](https://img.shields.io/badge/Talk_to_Ronie-my_AI_agent-ff7a1a?style=for-the-badge)](https://raunakpatil.com/ronie)
+
+🟢 **Open to new roles** · based in Nagpur, India
  
 ---
  
@@ -28,10 +31,33 @@ AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I
 
 ---
 
+## 🤖 Meet Ronie — my 3D AI agent
+
+<div align="center">
+
+<a href="https://raunakpatil.com/ronie"><img src="https://raw.githubusercontent.com/raunakpatil/ronie-3d-ai-website-agent/main/docs/assets/ronie-wake.gif" alt="Ronie waking up, leaping into place and waving hello" width="720"></a>
+
+</div>
+
+**Ronie** lives on [my website](https://raunakpatil.com/ronie) and talks to visitors: he answers questions grounded
+only in real facts, speaks in a neural voice that runs on the visitor's own GPU, reacts with 23 facial expressions and
+23 animations I authored in Blender with Python, shows projects, and plays a mind-reading game — for **$0 a month**.
+He works with any 3D character and any website, and the code is open as a template.
+
+`three.js` `WebGPU` `Kokoro TTS` `Cloudflare Workers` `Gemini` `Blender + Python` `Service Workers` `IndexedDB`
+
+[![Talk to Ronie](https://img.shields.io/badge/Talk_to_Ronie-live-ff7a1a?style=flat-square)](https://raunakpatil.com/ronie)
+[![Case study](https://img.shields.io/badge/Case_study_%26_template-repo-181717?style=flat-square&logo=github)](https://github.com/raunakpatil/ronie-3d-ai-website-agent)
+[![Showcase](https://img.shields.io/badge/Showcase-page-c6f432?style=flat-square&labelColor=111111)](https://raunakpatil.github.io/ronie-3d-ai-website-agent/)
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Stack | Link |
 |--------|-------|------|
+| **Ronie — a 3D AI agent for any website** · An embodied AI guide: grounded answers, an on-device neural voice, 23 expressions, Blender-authored moves and a mind-reading game, free to run; open template included | `three.js` `WebGPU` `Kokoro TTS` `Cloudflare Workers` `Gemini` `Blender` | [→ Repo](https://github.com/raunakpatil/ronie-3d-ai-website-agent) · [🚀 Live](https://raunakpatil.com/ronie) |
+| **raunakpatil.com** · My portfolio: a dashboard of live, interactive cards, a 3D project tunnel, a dotted experience map, a library of case studies and certificates as 3D books — and Ronie | `Vanilla JS` `CSS 3D` `Canvas` `three.js` `GitHub Pages` | [🚀 Live](https://raunakpatil.com/) |
 | **Raunak's ResRescue** · Free AI-powered desktop app that rewrites your resume to beat Applicant Tracking Systems (ATS), Generates Cover Letter, and exports instantly to pixel-perfect PDF & DOCX | `React 18` `Electron` `Google Gemini API` `Vite` `Tailwind CSS` `Framer Motion` | [→ Repo](https://github.com/raunakpatil/Resrescue-ats-resume-optimizer) · [⬇ EXE](https://github.com/raunakpatil/Resrescue-ats-resume-optimizer/releases/latest) |
 | **YouTube Agentic AI Studio** · 100% free AI pipeline that researches, scripts, narrates, animates, and auto-uploads faceless YouTube videos — one command, zero cost per video | `Python` `Gemini` `Edge TTS` `Pexels API` `LangChain` `YouTube API` | [→ Repo](https://github.com/raunakpatil/youtube-agentic-ai-studio) |
 | **TriviaFlux** · AI-powered Trivia Game with Genkit-generated questions, real-time leaderboards, and a full Android APK release | `Next.js 15` `TypeScript` `Firebase` `Google Genkit` `Tailwind CSS` | [→ Repo](https://github.com/raunakpatil/triviaflux) · [⬇ APK](https://github.com/raunakpatil/triviaflux/releases/latest/download/TriviaFlux.apk) |
@@ -50,6 +76,9 @@ AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I
 **Generative AI**
 `OpenAI API` `Azure AI` `RAG Pipelines` `Prompt Engineering` `LLM Evaluation` `AI Agents` `Vector Databases`
 
+**Web, 3D & AI agents**
+`JavaScript` `React` `Next.js` `three.js` `WebGPU` `Cloudflare Workers` `Gemini API` `Blender (Python)`
+
 **Data & Tools**
 `Power BI` `MLflow` `Git` `Jira` `Agile`
 
@@ -60,10 +89,16 @@ AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I
 
 ## 🏅 Professional Certifications
 
-| Certification | Issuer |
-|--------------|--------|
-| Artificial Intelligence Professional | DIAT, DRDO, Pune |
-| Programming in Python | NIELIT, Haridwar |
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| [RAG: Retrieval-Augmented Generation](https://www.mygreatlearning.com/certificate/SUYFCKKU) | Great Learning | 2026 |
+| Generative AI: Working with Large Language Models | LinkedIn Learning | 2026 |
+| Agentic AI Fundamentals: Architectures, Frameworks, and Applications | LinkedIn Learning | 2026 |
+| AI in Project Management | LinkedIn Learning | 2026 |
+| Artificial Intelligence Professional | DIAT, DRDO, Pune | 2021 |
+| [Python Programming for Artificial Intelligence](https://www.udemy.com/certificate/UC-13e67c75-000f-4b88-ae98-24036e560021/) | Datai Team (Udemy) | 2021 |
+| Programming in Python | NIELIT, Haridwar | 2021 |
+| [Elements of AI: Introduction to AI](https://www.elementsofai.com/) | University of Helsinki | 2021 |
 
 ---
 
@@ -98,6 +133,9 @@ AI Engineer with an MSc in Data Science & AI from the University of Liverpool. I
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunakpatil/)
 [![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakpatil15@gmail.com)
+[![Ronie](https://img.shields.io/badge/Ask%20Ronie-ff7a1a?style=for-the-badge)](https://raunakpatil.com/ronie)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eldritchlore)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raunakpatil/)
 
 *"The best AI system is one that knows what it doesn't know."*
 
