@@ -7,7 +7,6 @@
  
 ---
 ## Raunak Patil
-
 **AI Engineer · Generative AI · LLMs · RAG Pipelines · RLHF**
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-7f77dd?style=for-the-badge&logo=globe&logoColor=white)](https://raunakpatil.com/)
