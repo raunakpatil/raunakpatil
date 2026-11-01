@@ -6,7 +6,6 @@
 <img width="1280" height="360" alt="raunak-patil-banner" src="https://github.com/user-attachments/assets/4e8256e5-c5a8-4a80-8d05-f827ece9e802" />
  
 ---
- 
 ## Raunak Patil
 **AI Engineer · Generative AI · LLMs · RAG Pipelines · RLHF**
  
