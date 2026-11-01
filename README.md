@@ -1,7 +1,10 @@
 
 
+
 <div align="center">
 <img width="1280" height="361" alt="githubgif-ezgif com-optimizedrev" src="https://github.com/user-attachments/assets/5835a4a3-e26b-4974-baad-37d55b110f81" />
+
+<img width="1280" height="360" alt="raunak-patil-banner" src="https://github.com/user-attachments/assets/4e8256e5-c5a8-4a80-8d05-f827ece9e802" />
  
 ---
  
